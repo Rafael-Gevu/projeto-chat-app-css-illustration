@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+
+
+.background-left{
+    height: 90vh;
+    width: 550px;
+    background-image: linear-gradient(#ea42ff , #8838ff);
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50% ;
+    position: absolute;
+    top: 0;
+    left: -150px;
+} 
+
+
+
+
+
+
+.background-right {
+    height: 90vh;
+    width: 40%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50% ;
+    background-color: #f9f4f9;
+    position: absolute;
+    bottom: 0;
+    right: -150px;
+}
